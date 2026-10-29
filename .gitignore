@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+
+three-scene 2/three-scene/.git-backup/
+three-scene 2/three-scene-git-backup/
